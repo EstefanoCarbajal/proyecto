@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
     cout<<"hola mundo"<<endl;
-    int a=3;
-
+    int a=3, b=2;
+    cout<<a<<" y "<<b<<endl;
 
 }
